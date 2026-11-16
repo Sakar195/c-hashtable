@@ -1,0 +1,14 @@
+# Compiled binaries and build artifacts
+bin/
+*.o
+*.out
+
+# Clangd & Tooling (Machine-specific paths & caches)
+compile_commands.json
+.clangd/
+.cache/
+
+# Editor / OS artifacts
+.vscode/
+.idea/
+.DS_Store
